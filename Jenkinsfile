@@ -1,3 +1,3 @@
-@Library('robo') _
+@Library('roboshop') _
 env.app_lang = "nodejs"
 ci()
